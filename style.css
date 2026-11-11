@@ -737,8 +737,8 @@ footer{
         position: sticky;
         top: 0;
         z-index: 100;
-        margin: 0 30px;
-        margin-right:50px;
+        /* margin-left:20px;
+        margin-right:20px; */
         padding-right: 24px;
         padding-left: 24px;
         background: var(--accent-04);
@@ -800,6 +800,7 @@ footer{
 
     .mobile-menu-cta .btn{
         width: 100%;
+        color: var(--accent-04);
     }
 
     header > .nav-list li{
